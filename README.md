@@ -13,9 +13,12 @@
  Calendar.
  Territories.
 ## 3-DAX :
-# -Calculating the Total Quantities Using Sum( ).
-# -Calculating the Average Price Using Average ( ).
-# -Calculating the Number OF Products Using Count ( ).
+ -Calculating the Total Quantities Using Sum( ). 
+ 
+ -Calculating the Average Price Using Average ( ). 
+ 
+ -Calculating the Number OF Products Using Count ( ). 
+ 
 
 # -Calculating the Total Sales =SUMX(Sales,Sales[OrderQuantity]*RELATED(Products[ProductPrice]))
 
