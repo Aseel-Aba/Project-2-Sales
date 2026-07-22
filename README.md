@@ -3,3 +3,12 @@
 2-Remove Blank Rows.
 3-Remove Duplicates.
 4-Data Type Correction.
+# 2-	Data  Muddling :
+ -Manage Relation Ship Between the tables   :
+ Product_Categories.
+ Product_SubCategories.
+ Products.
+ Sales.
+ Customers.
+ Calendar.
+ Territories.
