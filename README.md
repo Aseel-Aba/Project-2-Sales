@@ -44,6 +44,13 @@ Same Month Last Years = CALCULATE([TotalOrder],DATEADD('Calendar'[Date],-1,YEAR)
 # 4-Data Visualization (Dashboard ) :
  -Using a slicer to select a time period and display the total quantities and total sales of products during that period in table.
  
- -  Using KPI to show performance indicators .
+-Using KPI to show performance indicators .
+
 -Using the map to show country based on continent selection from the slicer.
+
 -Using Line chart to show total sales for each month .
+<img width="1331" height="742" alt="dashboard1" src="https://github.com/user-attachments/assets/adc5c5a4-69c5-4df9-a07f-1b5a7fd95547" />
+
+<img width="1331" height="742" alt="dashboard1" src="https://github.com/user-attachments/assets/d389c39c-3e9c-4bd7-95ff-1b897471b959" />
+
+<img width="1196" height="682" alt="dashboard3" src="https://github.com/user-attachments/assets/4039e1e5-4f13-4e2f-923c-f4a3cc5fd917" />
